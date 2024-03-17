@@ -21,4 +21,5 @@ Para instalar o projeto, siga estas etapas:
 # Autores
 
 <img src="https://github.com/J07A.png" width="100px;"/>
+
 * [Janaina Oliveira](https://github.com/J07A)
